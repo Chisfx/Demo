@@ -1,6 +1,14 @@
 # Back
 ## La solución del back esta diseñada en diferentes capas en las cuales se utiliza los siguiente frameworks:
-### *
+### 
+* AspNetCoreHero.Results
+* AutoMapper
+* Bogus
+* MediatR
+* EntityFrameworkCore
+* Microsoft.EntityFrameworkCore.SqlServer
+* Microsoft.EntityFrameworkCore.Tools
+* Swashbuckle.AspNetCore
 # Front
 
 ## Project setup
