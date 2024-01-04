@@ -27,24 +27,22 @@ Update-Database
 ```
 <img width="1064" alt="Captura de pantalla 2024-01-04 121251" src="https://github.com/Chisfx/Demo/assets/101854771/00339f78-2df0-4db6-bfc1-9525498fc66f">
 
-## Ejecutar IIS
+## Establecer Demo.Api como proyecto de inicio y ejecutar IIS para iniciar
 
 # Front
 
-## Project setup
+## Instalar paquetes
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Establecer URL de IIS en archivo main.js
+```
+axios.defaults.baseURL = 'http://localhost:2918/';
+```
+
+## Ejecutar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
