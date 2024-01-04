@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Usuario\\source\\repos\\Demo\\Demo.Api",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

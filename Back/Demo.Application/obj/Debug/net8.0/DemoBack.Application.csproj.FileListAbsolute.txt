@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\bin\Debug\net8.0\DemoBack.Application.deps.json
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\bin\Debug\net8.0\DemoBack.Application.dll
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\bin\Debug\net8.0\DemoBack.Application.pdb
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\bin\Debug\net8.0\DemoBack.Domain.dll
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\bin\Debug\net8.0\DemoBack.Domain.pdb
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.csproj.CopyComplete
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.dll
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\refint\DemoBack.Application.dll
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\DemoBack.Application.pdb
+C:\Users\Usuario\source\repos\DemoBack\DemoBack.Application\obj\Debug\net8.0\ref\DemoBack.Application.dll
